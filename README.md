@@ -15,11 +15,17 @@ label start:
 the current sections in the demo are added for these purposes are:
 
 1- how the choices(menus) look
+
 2- how long text fit inside the menus
+
 3- how the input looks
+
 4- how the say window looks with a bigger block of text
+
 5- a long conversation to fill the history and make it ready for testing
+
 6- holding the ctrl button on a menu will show you the skip indicator
+
 7- two characters and a background are added to simulate a finished game environment
 
 
