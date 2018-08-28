@@ -23,6 +23,8 @@ the current sections in the demo are added for these purposes are:
 7) two characters and a background are added to simulate a finished game environment
 
 ---
+and here's a video: https://youtu.be/L-g6aBmnd_o
+---
 
 Credits for images used in this demo:
 
