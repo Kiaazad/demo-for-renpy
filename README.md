@@ -26,10 +26,15 @@ the current sections in the demo are added for these purposes are:
 Credits for images used in this demo:
 
 bg.jpg
+
 Uncle Mugen from: https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=17302
 
 Ayame Errkk.png
+
 Hana Impressed m.png
+
 Mayonaise Angry.png
+
 Nana Confident.png
+
 Mugかぶり from: https://lemmasoft.renai.us/forums/viewtopic.php?f=52&t=39049
